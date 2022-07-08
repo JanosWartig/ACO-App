@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "csm_2019.01.04_CLIMATE_TILE_SLIDE_DECK7_cf3a15f95a.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
